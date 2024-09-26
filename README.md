@@ -30,4 +30,5 @@ The analysis uses historical data for ten basketball players over ten seasons, c
 5.	Importance of Data in Sports Analytics: The project reinforced the critical role of data in evaluating player performance and making strategic decisions in basketball. By analyzing comprehensive statistics, teams can tailor their training and game strategies to improve outcomes.
 
 References
-www.superdatascience.com
+Kirill Eremenko, www.superdatascience.com
+
